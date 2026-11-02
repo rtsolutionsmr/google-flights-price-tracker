@@ -1,0 +1,1 @@
+{"description": "Track Google Flights fares for many routes and dates, save the cheapest flight per day to CSV, and run it daily. Uses the Google Flights Scraper on Apify \u2014 no Google account or API key.", "topics": ["google-flights", "flight-prices", "web-scraping", "python", "travel", "apify", "price-tracker"]}
